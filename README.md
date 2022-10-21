@@ -2,7 +2,6 @@
 
 - IDE : VS Code
 - Language : Javascript(Node)
-<br>
 
 # 목적
 
